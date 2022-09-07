@@ -16,7 +16,7 @@ public class Array implements Aggregator {
     }
 
     @Override
-    public Iterator iterator() {
+    public Iterators iterator() {
         return new ArrayIterator(this);
     }
 }

@@ -11,7 +11,7 @@ public class MainEntry {
         };
 
         Array array = new Array(items);
-        Iterator it = array.iterator();
+        Iterators it = array.iterator();
 
         while(it.next()) {
             Item item = (Item)it.current();

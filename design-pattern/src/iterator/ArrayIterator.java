@@ -1,6 +1,6 @@
 package iterator;
 
-public class ArrayIterator implements Iterator {
+public class ArrayIterator implements Iterators {
     private Array array;
     private int index;
 
