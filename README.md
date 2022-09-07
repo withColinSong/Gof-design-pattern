@@ -28,5 +28,5 @@
 - 필요할 시 전략을 바꿀 수 있는 패턴
 - 어떤 하나의 기능을 구상하는 특정하는 부분을 실행중에 다른 것으로 효과적으로 변경할 수 있다.
 
-<img src="asset/20220907230541.png" width="250" height="250">
+<img src="asset/20220907232759.png" width="600" style="text-align:center">
 
