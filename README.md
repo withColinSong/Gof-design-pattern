@@ -33,6 +33,6 @@
 
 ## 11. Observer Pattern
 - 어떤 상태가 변경됐을 때 이 변화에 관심이 있는 관찰자들에게 알려주는 패턴
-<img src="asset/20220907232759.png" width="600" style="text-align:center">
+<img src="asset/20220910215143.png" width="600" style="text-align:center">
 
 
