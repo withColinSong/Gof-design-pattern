@@ -30,6 +30,11 @@
 
 <img src="asset/20220907232759.png" width="600" style="text-align:center">
 
+## 3. Template 
+- 단계1 + 단계2 + 단계3 순서로 실행되는 기능
+  <br> (각 단계에 대한 구체적인 코드 구현은 없음)
+![img.png](asset/202211083223.png)
+
 
 ## 7. Singleton
 - 하나의 클래스 타입에 대해서 오직 하나의 객체만을 보장해주는 패턴
