@@ -1,7 +1,16 @@
+<!-- TOC -->
 # 목차
-- [목차](#목차)
-- [Gof Design Pattern](#gof-design-pattern)
-  - [Iterator](#iterator)
+* [목차](#)
+* [Gof Design Pattern](#gof-design-pattern)
+  * [디자인 패턴이란?](#-)
+    * [올바른 관계를 맺어야 하는 이유?](#----)
+  * [1. Iterator](#1-iterator)
+  * [2. Strategy](#2-strategy)
+  * [3. Template](#3-template)
+  * [4. Adapter](#4-adapter)
+  * [7. Singleton](#7-singleton)
+  * [11. Observer Pattern](#11-observer-pattern)
+<!-- TOC -->
 
 # Gof Design Pattern
 > Gof
@@ -35,6 +44,9 @@
   <br> (각 단계에 대한 구체적인 코드 구현은 없음)
 ![img.png](asset/202211083223.png)
 
+## 4. Adapter
+- 변경할 수 없는 클래스를 원하는 형태의 인터페이스나 클래스로 사용하고자 할 때 사용한다.
+  ![Adapter1.jpeg](asset/Adapter1.jpeg)
 
 ## 7. Singleton
 - 하나의 클래스 타입에 대해서 오직 하나의 객체만을 보장해주는 패턴
