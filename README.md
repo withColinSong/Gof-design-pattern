@@ -48,6 +48,10 @@
 - 변경할 수 없는 클래스를 원하는 형태의 인터페이스나 클래스로 사용하고자 할 때 사용한다.
   ![Adapter1.jpeg](asset/Adapter1.jpeg)
 
+## 5. Bridge
+- 기능 계층과 구현 계층의 분리로 시스템의 확장성과 유지보수성을 높이는 패턴
+  ![bridge.png](asset/bridge.png)
+
 ## 7. Singleton
 - 하나의 클래스 타입에 대해서 오직 하나의 객체만을 보장해주는 패턴
 <img src="asset/img.png" width="600" style="text-align:center">
