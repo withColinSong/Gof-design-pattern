@@ -56,7 +56,11 @@
 - 하나의 클래스 타입에 대해서 오직 하나의 객체만을 보장해주는 패턴
 <img src="asset/img.png" width="600" style="text-align:center">
 
-## 11. Observer Pattern
+## 11. Observer
 - 어떤 상태가 변경됐을 때 이 변화에 관심이 있는 관찰자들에게 알려주는 패턴
 <img src="asset/20220910215143.png" width="600" style="text-align:center">
 
+## 17. Facade 
+- 어떤 기능을 처리하기 위해 여러 객체들 사이의 복잡한 메서드 사용을 감춰서 단순화 시켜준 패턴
+- 다른 개발자들에게 라이브러리를 제공할 때 사용할 수 있다.
+![facade.png](asset/facade.png)
