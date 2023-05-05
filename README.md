@@ -1,6 +1,4 @@
 <!-- TOC -->
-# 목차
-* [목차](#)
 * [Gof Design Pattern](#gof-design-pattern)
   * [디자인 패턴이란?](#-)
     * [올바른 관계를 맺어야 하는 이유?](#----)
@@ -8,10 +6,13 @@
   * [2. Strategy](#2-strategy)
   * [3. Template](#3-template)
   * [4. Adapter](#4-adapter)
+  * [5. Bridge](#5-bridge)
   * [7. Singleton](#7-singleton)
-  * [11. Observer Pattern](#11-observer-pattern)
+  * [11. Observer](#11-observer)
+  * [14. Proxy](#14-proxy)
+  * [17. Facade](#17-facade)
+  * [18. Builder](#18-builder)
 <!-- TOC -->
-
 # Gof Design Pattern
 > Gof
 > Gang of Four(4명의 선배 개발자)가 체계적으로 정리해 놓은 설계 방법
@@ -59,6 +60,10 @@
 ## 11. Observer
 - 어떤 상태가 변경됐을 때 이 변화에 관심이 있는 관찰자들에게 알려주는 패턴
 <img src="asset/20220910215143.png" width="600" style="text-align:center">
+
+## 14. Proxy
+- Proxy : 대리인
+- 어떤 작업의 실행을 대리인을 통해 실행하도록 하는 패턴
 
 ## 17. Facade 
 - 어떤 기능을 처리하기 위해 여러 객체들 사이의 복잡한 메서드 사용을 감춰서 단순화 시켜준 패턴
