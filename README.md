@@ -53,9 +53,13 @@
 - 기능 계층과 구현 계층의 분리로 시스템의 확장성과 유지보수성을 높이는 패턴
   ![bridge.png](asset/bridge.png)
 
-## 7. Singleton
+## 6. Singleton
 - 하나의 클래스 타입에 대해서 오직 하나의 객체만을 보장해주는 패턴
 <img src="asset/img.png" width="600" style="text-align:center">
+
+## 7. Flyweight
+- 어떤 객체를 사용하기 위해 매번 생성하지 않고 한번만 생성하고 다시 필요해 질때는 이전에 생성된 객체를 재사용할 수 있다.
+
 
 ## 11. Observer
 - 어떤 상태가 변경됐을 때 이 변화에 관심이 있는 관찰자들에게 알려주는 패턴
