@@ -7,7 +7,9 @@
   * [3. Template](#3-template)
   * [4. Adapter](#4-adapter)
   * [5. Bridge](#5-bridge)
-  * [7. Singleton](#7-singleton)
+  * [6. Singleton](#6-singleton)
+  * [7. Flyweight](#7-flyweight)
+  * [8.Composite](#8composite)
   * [11. Observer](#11-observer)
   * [14. Proxy](#14-proxy)
   * [17. Facade](#17-facade)
@@ -62,6 +64,9 @@
 - 대량의 유사한 객체를 생성해야 할 때
 - 객체 생성 및 소멸 비용이 높을 때
 - 객체 상태를 외부화하여 공유할 수 있는 경우
+
+## 8.Composite
+- 단일체와 집합체를 동일하게 처리하는 방법
 
 ## 11. Observer
 - 어떤 상태가 변경됐을 때 이 변화에 관심이 있는 관찰자들에게 알려주는 패턴
